@@ -1,0 +1,9 @@
+{
+    "name" : "Hello World",
+    "description" : "Extension Tutorial, Chapter 5",
+    "icon" : "extension",
+    "type" : "visualization",
+    "version": "0.1",
+    "preview" : "text",
+    "author": "Your Name"
+}
